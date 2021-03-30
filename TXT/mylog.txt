@@ -54,3 +54,4 @@ ZCZC W04 30 L12 Assignment #2
 ZCZC W04 70 L14 Assignment #4
 ZCZC W04 5 L15 Assignment #5	
 ZCZC W04 1 L18 Assignment #8
+ZCZC W04 30 L23 Discord Pop Quiz
