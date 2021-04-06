@@ -55,3 +55,12 @@ ZCZC W04 70 L14 Assignment #4
 ZCZC W04 5 L15 Assignment #5	
 ZCZC W04 1 L18 Assignment #8
 ZCZC W04 30 L23 Discord Pop Quiz
+ZCZC W05 91 L02 ZOOM related
+ZCZC W05 40 L01 Scele Pop Quiz
+ZCZC W05 30 L23 Discord Pop Quiz
+ZCZC W05 30 L11 Assignment #1
+ZCZC W05 10 L12 Assignment #2
+ZCZC W05 80 L13 Assignment #3
+ZCZC W05 30 L14 Assignment #4
+ZCZC W05 5 L15 Assignment #5
+ZCZC W05 1 L16 Assignment #6
