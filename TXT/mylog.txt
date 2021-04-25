@@ -70,3 +70,6 @@ ZCZC W06 30 L01 Scele Pop Quiz
 ZCZC W06 30 L11 Assignment #1
 ZCZC W06 15 L12 Assignment #2
 ZCZC W06 15 L14 Assignment #4
+ZCZC W06 65 L13 Assignment #3
+ZCZC W06 5 L15 Assignment #5
+ZCZC W06 1 L16 Assignment #6
