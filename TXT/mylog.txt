@@ -73,3 +73,12 @@ ZCZC W06 15 L14 Assignment #4
 ZCZC W06 65 L13 Assignment #3
 ZCZC W06 5 L15 Assignment #5
 ZCZC W06 1 L16 Assignment #6
+ZCZC W07 88 L02 ZOOM related
+ZCZC W07 30 L01 Scele Pop Quiz
+ZCZC W07 30 L01 Scele Pop Quiz
+ZCZC W07 30 L11 Assignment #1
+ZCZC W07 12 L12 Assignment #2
+ZCZC W07 65 L13 Assignment #3
+ZCZC W07 30 L14 Assignment #4
+ZCZC W07 5 L15 Assignment #5
+ZCZC W07 1 L16 Assignment #6
