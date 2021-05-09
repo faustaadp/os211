@@ -91,3 +91,7 @@ ZCZC W08 45 L13 Assignment #3
 ZCZC W08 120 L14 Assignment #4
 ZCZC W08 4 L15 Assignment #5
 ZCZC W08 1 L16 Assignment #6
+ZCZC W09 90 L02 ZOOM related
+ZCZC W09 5 L12 Assignment #2
+ZCZC W09 5 L16 Assignment #6
+ZCZC W09 1 L17 Assignment #7
